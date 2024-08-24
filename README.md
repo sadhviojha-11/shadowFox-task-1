@@ -5,5 +5,6 @@ A landing page for ebookstore !
 HTL And CSS
 
 ### SCREENSHOT
-![landing page ](https://github.com/user-attachments/assets/8c2908c4-c7a4-49df-8a0f-753fb431175a)
 
+
+![landing pagdhsgd](https://github.com/user-attachments/assets/b87c6c9e-7b12-4c8b-98c3-f666b722a677)
